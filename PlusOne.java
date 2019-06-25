@@ -1,4 +1,4 @@
-class Solution {
+class PlusOne {
     public int[] plusOne(int[] digits) {
         int n = digits.length;
         digits[n-1] = digits[n-1] + 1;
