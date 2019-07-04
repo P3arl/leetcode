@@ -7,3 +7,5 @@ Leetcode Problems
    Return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
    
 -- 101. Symmetric Tree: Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center)
+
+-- 98. Validate Binary Search Tree: Given a binary tree, determine if it is a valid binary search tree (BST).
